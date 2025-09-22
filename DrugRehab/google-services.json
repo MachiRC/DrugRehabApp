@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1027602334883",
+    "project_id": "drug-rehab-app",
+    "storage_bucket": "drug-rehab-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027602334883:android:d58e8791f4dc259e09eb16",
+        "android_client_info": {
+          "package_name": "com.dmzco.rehabits"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMdYvierRVxMGf3Cd-FYQ3ghXuuSMhbzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
