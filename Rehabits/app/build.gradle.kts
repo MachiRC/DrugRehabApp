@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.temp"
+    namespace = "com.dmzco.rehabits"
     compileSdk = 36
 
     defaultConfig {
